@@ -1,0 +1,12 @@
+"""[
+  {
+	"task": "First Task"
+  }
+]"""
+{
+    "task": "Run the following commands in your terminal to add a new task:",
+    "commands": [
+        "cd \"C:\\Users\\A\\Documents\\New folder\\Roadmap\\Task Tracker Project\"",
+        "python task.py add \"My first task\""
+    ]
+}
